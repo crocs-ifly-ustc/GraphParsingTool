@@ -1,0 +1,384 @@
+[
+    {
+        "atoms": {
+            "Atom_0": {
+                "key": "Atom_0",
+                "text": "",
+                "pos_x": 0.5000000000000001,
+                "pos_y": -0.8660254037844386
+            },
+            "Atom_1": {
+                "key": "Atom_1",
+                "text": "",
+                "pos_x": 0,
+                "pos_y": 0
+            },
+            "Atom_2": {
+                "key": "Atom_2",
+                "text": "",
+                "pos_x": 1.5,
+                "pos_y": -0.8660254037844386
+            },
+            "Atom_3": {
+                "key": "Atom_3",
+                "text": "Br",
+                "pos_x": 1.5,
+                "pos_y": -1.8660254037844386
+            },
+            "Atom_4": {
+                "key": "Atom_4",
+                "text": "",
+                "pos_x": 2.0,
+                "pos_y": 0.0
+            },
+            "Atom_5": {
+                "key": "Atom_5",
+                "text": "Br",
+                "pos_x": 3.0,
+                "pos_y": 0.0
+            },
+            "Atom_6": {
+                "key": "Atom_6",
+                "text": "",
+                "pos_x": 1.4999999999999998,
+                "pos_y": 0.8660254037844383
+            },
+            "Atom_7": {
+                "key": "Atom_7",
+                "text": "",
+                "pos_x": 0.49999999999999983,
+                "pos_y": 0.8660254037844382
+            }
+        },
+        "bonds": {
+            "Atom_1-Atom_0": {
+                "key": "Bond_0",
+                "type": "=",
+                "angle": 60.0,
+                "length": 1.0,
+                "begin_atom": "Atom_1",
+                "end_atom": "Atom_0"
+            },
+            "Atom_0-Atom_2": {
+                "key": "Bond_1",
+                "type": "-",
+                "angle": 0.0,
+                "length": 1.0,
+                "begin_atom": "Atom_0",
+                "end_atom": "Atom_2"
+            },
+            "Atom_1-Atom_7": {
+                "key": "Bond_7",
+                "type": "-",
+                "angle": 300.0,
+                "length": 0.9999999999999994,
+                "begin_atom": "Atom_1",
+                "end_atom": "Atom_7"
+            },
+            "Atom_2-Atom_3": {
+                "key": "Bond_2",
+                "type": "-",
+                "angle": 90.0,
+                "length": 1.0,
+                "begin_atom": "Atom_2",
+                "end_atom": "Atom_3"
+            },
+            "Atom_2-Atom_4": {
+                "key": "Bond_3",
+                "type": "-",
+                "angle": 300.0,
+                "length": 1.0,
+                "begin_atom": "Atom_2",
+                "end_atom": "Atom_4"
+            },
+            "Atom_4-Atom_5": {
+                "key": "Bond_4",
+                "type": "-",
+                "angle": 0.0,
+                "length": 1.0,
+                "begin_atom": "Atom_4",
+                "end_atom": "Atom_5"
+            },
+            "Atom_4-Atom_6": {
+                "key": "Bond_5",
+                "type": "-",
+                "angle": 240.0,
+                "length": 1.0,
+                "begin_atom": "Atom_4",
+                "end_atom": "Atom_6"
+            },
+            "Atom_6-Atom_7": {
+                "key": "Bond_6",
+                "type": "-",
+                "angle": 180.0,
+                "length": 1.0,
+                "begin_atom": "Atom_6",
+                "end_atom": "Atom_7"
+            }
+        }
+    },
+    {
+        "atoms": {
+            "Atom_10": {
+                "key": "Atom_10",
+                "text": "",
+                "pos_x": 1.5,
+                "pos_y": -0.8660254037844386
+            },
+            "Atom_11": {
+                "key": "Atom_11",
+                "text": "",
+                "pos_x": 2.5,
+                "pos_y": -0.8660254037844386
+            },
+            "Atom_12": {
+                "key": "Atom_12",
+                "text": "",
+                "pos_x": 3.0,
+                "pos_y": 0.0
+            },
+            "Atom_13": {
+                "key": "Atom_13",
+                "text": "Br",
+                "pos_x": 4.0,
+                "pos_y": 0.0
+            },
+            "Atom_14": {
+                "key": "Atom_14",
+                "text": "",
+                "pos_x": 2.5,
+                "pos_y": 0.8660254037844383
+            },
+            "Atom_15": {
+                "key": "Atom_15",
+                "text": "",
+                "pos_x": 1.4999999999999998,
+                "pos_y": 0.8660254037844382
+            },
+            "Atom_8": {
+                "key": "Atom_8",
+                "text": "Br",
+                "pos_x": 0,
+                "pos_y": 0
+            },
+            "Atom_9": {
+                "key": "Atom_9",
+                "text": "",
+                "pos_x": 1.0,
+                "pos_y": 0.0
+            }
+        },
+        "bonds": {
+            "Atom_9-Atom_10": {
+                "key": "Bond_9",
+                "type": "-",
+                "angle": 60.0,
+                "length": 1.0,
+                "begin_atom": "Atom_9",
+                "end_atom": "Atom_10"
+            },
+            "Atom_10-Atom_11": {
+                "key": "Bond_10",
+                "type": "=",
+                "angle": 0.0,
+                "length": 1.0,
+                "begin_atom": "Atom_10",
+                "end_atom": "Atom_11"
+            },
+            "Atom_11-Atom_12": {
+                "key": "Bond_11",
+                "type": "-",
+                "angle": 300.0,
+                "length": 1.0,
+                "begin_atom": "Atom_11",
+                "end_atom": "Atom_12"
+            },
+            "Atom_12-Atom_13": {
+                "key": "Bond_12",
+                "type": "-",
+                "angle": 0.0,
+                "length": 1.0,
+                "begin_atom": "Atom_12",
+                "end_atom": "Atom_13"
+            },
+            "Atom_12-Atom_14": {
+                "key": "Bond_13",
+                "type": "-",
+                "angle": 240.0,
+                "length": 1.0,
+                "begin_atom": "Atom_12",
+                "end_atom": "Atom_14"
+            },
+            "Atom_14-Atom_15": {
+                "key": "Bond_14",
+                "type": "-",
+                "angle": 180.0,
+                "length": 1.0,
+                "begin_atom": "Atom_14",
+                "end_atom": "Atom_15"
+            },
+            "Atom_9-Atom_15": {
+                "key": "Bond_15",
+                "type": "-",
+                "angle": 300.0,
+                "length": 0.9999999999999994,
+                "begin_atom": "Atom_9",
+                "end_atom": "Atom_15"
+            },
+            "Atom_8-Atom_9": {
+                "key": "Bond_8",
+                "type": "-",
+                "angle": 0.0,
+                "length": 1.0,
+                "begin_atom": "Atom_8",
+                "end_atom": "Atom_9"
+            }
+        }
+    },
+    {
+        "atoms": {
+            "Atom_16": {
+                "key": "Atom_16",
+                "text": "Br",
+                "pos_x": 0,
+                "pos_y": 0
+            },
+            "Atom_17": {
+                "key": "Atom_17",
+                "text": "",
+                "pos_x": 1.0,
+                "pos_y": 0.0
+            },
+            "Atom_18": {
+                "key": "Atom_18",
+                "text": "",
+                "pos_x": 1.5,
+                "pos_y": -0.8660254037844386
+            },
+            "Atom_19": {
+                "key": "Atom_19",
+                "text": "",
+                "pos_x": 2.5,
+                "pos_y": -0.8660254037844386
+            },
+            "Atom_20": {
+                "key": "Atom_20",
+                "text": "Br",
+                "pos_x": 2.5,
+                "pos_y": -1.8660254037844386
+            },
+            "Atom_21": {
+                "key": "Atom_21",
+                "text": "",
+                "pos_x": 3.0,
+                "pos_y": 0.0
+            },
+            "Atom_22": {
+                "key": "Atom_22",
+                "text": "Br",
+                "pos_x": 4.0,
+                "pos_y": 0.0
+            },
+            "Atom_23": {
+                "key": "Atom_23",
+                "text": "",
+                "pos_x": 2.5,
+                "pos_y": 0.8660254037844383
+            },
+            "Atom_24": {
+                "key": "Atom_24",
+                "text": "",
+                "pos_x": 1.4999999999999998,
+                "pos_y": 0.8660254037844382
+            },
+            "Atom_25": {
+                "key": "Atom_25",
+                "text": "Br",
+                "pos_x": 1.5,
+                "pos_y": -1.8660254037844386
+            }
+        },
+        "bonds": {
+            "Atom_16-Atom_17": {
+                "key": "Bond_16",
+                "type": "-",
+                "angle": 0.0,
+                "length": 1.0,
+                "begin_atom": "Atom_16",
+                "end_atom": "Atom_17"
+            },
+            "Atom_17-Atom_18": {
+                "key": "Bond_17",
+                "type": "-",
+                "angle": 60.0,
+                "length": 1.0,
+                "begin_atom": "Atom_17",
+                "end_atom": "Atom_18"
+            },
+            "Atom_17-Atom_24": {
+                "key": "Bond_24",
+                "type": "-",
+                "angle": 300.0,
+                "length": 0.9999999999999994,
+                "begin_atom": "Atom_17",
+                "end_atom": "Atom_24"
+            },
+            "Atom_18-Atom_19": {
+                "key": "Bond_18",
+                "type": "-",
+                "angle": 0.0,
+                "length": 1.0,
+                "begin_atom": "Atom_18",
+                "end_atom": "Atom_19"
+            },
+            "Atom_18-Atom_25": {
+                "key": "Bond_25",
+                "type": "-",
+                "angle": 90.0,
+                "length": 1.0,
+                "begin_atom": "Atom_18",
+                "end_atom": "Atom_25"
+            },
+            "Atom_19-Atom_20": {
+                "key": "Bond_19",
+                "type": "-",
+                "angle": 90.0,
+                "length": 1.0,
+                "begin_atom": "Atom_19",
+                "end_atom": "Atom_20"
+            },
+            "Atom_19-Atom_21": {
+                "key": "Bond_20",
+                "type": "-",
+                "angle": 300.0,
+                "length": 1.0,
+                "begin_atom": "Atom_19",
+                "end_atom": "Atom_21"
+            },
+            "Atom_21-Atom_22": {
+                "key": "Bond_21",
+                "type": "-",
+                "angle": 0.0,
+                "length": 1.0,
+                "begin_atom": "Atom_21",
+                "end_atom": "Atom_22"
+            },
+            "Atom_21-Atom_23": {
+                "key": "Bond_22",
+                "type": "-",
+                "angle": 240.0,
+                "length": 1.0,
+                "begin_atom": "Atom_21",
+                "end_atom": "Atom_23"
+            },
+            "Atom_23-Atom_24": {
+                "key": "Bond_23",
+                "type": "-",
+                "angle": 180.0,
+                "length": 1.0,
+                "begin_atom": "Atom_23",
+                "end_atom": "Atom_24"
+            }
+        }
+    }
+]
